@@ -1,6 +1,6 @@
 Data Structure Assignment
 
-Name : L.Chran Teja
+Name : L.Charan Teja
 application number : 1284
 Course Name : Data Structures
 
